@@ -1,0 +1,24 @@
+.btn {
+  width: 138px;
+  height: 46px;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  background-color: #204080;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+
+  &:hover {
+    background-color: #4f75c2;
+  }
+
+  &:disabled {
+    background-color: gray;
+    cursor: not-allowed;
+  }
+}
+
+.btn-lg {
+  width: 216px;
+}

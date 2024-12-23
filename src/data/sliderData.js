@@ -1,0 +1,60 @@
+import newsImage from "../assets/img/Image-news.png";
+
+export const sliderData = [
+  {
+    id: 1,
+    image: newsImage,
+    url: "https://www.nytimes.com/2021/01/22/nyregion/port-authority-bus-terminal.html",
+    title: "1-A Plan to Rebuild the Bus Terminal Everyone Loves to Hate",
+    author: "Troy Corlson",
+    time: "1h ago",
+  },
+  {
+    id: 2,
+    image: newsImage,
+    url: "https://www.nytimes.com/2021/01/22/nyregion/port-authority-bus-terminal.html",
+    title: "2-A Plan to Rebuild the Bus Terminal Everyone Loves to Hate",
+    author: "Troy Corlson",
+    time: "1h ago",
+  },
+  {
+    id: 3,
+    image: newsImage,
+    url: "https://www.nytimes.com/2021/01/22/nyregion/port-authority-bus-terminal.html",
+    title: "3-A Plan to Rebuild the Bus Terminal Everyone Loves to Hate",
+    author: "Troy Corlson",
+    time: "1h ago",
+  },
+  {
+    id: 4,
+    image: newsImage,
+    url: "https://www.nytimes.com/2021/01/22/nyregion/port-authority-bus-terminal.html",
+    title: "4-A Plan to Rebuild the Bus Terminal Everyone Loves to Hate",
+    author: "Troy Corlson",
+    time: "1h ago",
+  },
+  {
+    id: 5,
+    image: newsImage,
+    url: "https://www.nytimes.com/2021/01/22/nyregion/port-authority-bus-terminal.html",
+    title: "5-A Plan to Rebuild the Bus Terminal Everyone Loves to Hate",
+    author: "Troy Corlson",
+    time: "1h ago",
+  },
+  {
+    id: 6,
+    image: newsImage,
+    url: "https://www.nytimes.com/2021/01/22/nyregion/port-authority-bus-terminal.html",
+    title: "6-A Plan to Rebuild the Bus Terminal Everyone Loves to Hate",
+    author: "Troy Corlson",
+    time: "1h ago",
+  },
+  {
+    id: 7,
+    image: newsImage,
+    url: "https://www.nytimes.com/2021/01/22/nyregion/port-authority-bus-terminal.html",
+    title: "7-A Plan to Rebuild the Bus Terminal Everyone Loves to Hate",
+    author: "Troy Corlson",
+    time: "1h ago",
+  },
+];
