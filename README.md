@@ -5,6 +5,6 @@
 
 
 
-link:  [https://search-portal-serhatyurdakuls-projects.vercel.app/]([https://tesodev-case.vercel.app](https://search-portal-serhatyurdakuls-projects.vercel.app/))
+link:  [https://search-portal-serhatyurdakuls-projects.vercel.app/](https://search-portal-serhatyurdakuls-projects.vercel.app)
 
 
